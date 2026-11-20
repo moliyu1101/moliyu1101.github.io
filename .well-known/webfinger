@@ -1,1 +1,1 @@
-{"subject":"acct:probe@x","aliases":[],"links":[{"rel":"self","href":"http://example.com/"}]}
+{"subject":"acct:probe@x","aliases":[],"links":[{"rel":"self","href":"http://127.0.0.1:41855/"}]}
